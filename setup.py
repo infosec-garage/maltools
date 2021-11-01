@@ -14,7 +14,7 @@ from setuptools import find_packages, setup
 # Base Parameters
 PACKAGE_NAME = 'maltools'
 AUTHOR = "InfoSec Garage Dev Team"
-AUTHOR_EMAIL = 'TBD'
+AUTHOR_EMAIL = 'devs@infosec-garage.org'
 DESCRIPTION = 'Malicious tool indicator collector'
 
 V_MAJOR = 0
